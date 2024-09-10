@@ -1,0 +1,6 @@
+1. Ligue o primeiro interruptor e deixe ligado por alguns minutos.
+2. depois desligue o primeiro interruptor e ligue o segundo interruptor e deixe ligado.
+3. Vá ate a sala das lampadas:
+    A. A luz que estiver ligada pertence ao segundo interruptor.
+    B. A luz que estiver desligada mas quente pertence ao primeiro interruptor.
+    C. A luz que estiver desligada mas fria pertence ao terceiro interruptor.
